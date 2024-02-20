@@ -1,7 +1,7 @@
 import os
-from . import czytanie
-from . import czyszczeniecen
-from . import filtrowanie
+import czytanie
+import czyszczeniecen
+import filtrowanie
 
 
 def collect_data():
