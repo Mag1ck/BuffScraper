@@ -57,6 +57,8 @@ python main.py
 
 ### Options before you can use scrapper
 
+In file czytanie.py
+
 USER_DATA_PATH = set location of your chrome user data
 BINARY_LOCATION = set location of your chrome.exe
 
