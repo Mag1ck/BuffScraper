@@ -10,7 +10,7 @@ BuffScraper is a web scraping project that collects data from websites and store
 
 ## Features
 
-- **Web scraping** using BeautifulSoup and Requests
+- **Web scraping** using Selenium
 - **Data storage** in txt file
 - **Comment on articles**
 - **Data cleaning and processing**
